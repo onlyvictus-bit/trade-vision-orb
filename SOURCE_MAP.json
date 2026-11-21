@@ -1,0 +1,811 @@
+{
+  "repository": "onlyvictus-bit/trade-vision-app",
+  "status": "PARTIAL",
+  "sources": [
+    {
+      "file": "baseline/b974a1fea5f88079ade34942a26ad3173bb3055c/docs/M4_HYPOTHESIS_BOX_V2_IMPLEMENTATION_PLAN_2026-09-10.md",
+      "bytes": 34260,
+      "git_blob": "b974a1fea5f88079ade34942a26ad3173bb3055c",
+      "sha256": "81d80578d75523662c944caa9837ba468c71a672d6cdd9c9c53ca356d9435bca",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/M4_HYPOTHESIS_BOX_V2_IMPLEMENTATION_PLAN_2026-09-10.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/M4_HYPOTHESIS_BOX_V2_IMPLEMENTATION_PLAN_2026-09-10.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/4f3aab032844b8ad1d27280589f2870941d43bd8/docs/M4_TRADING_COGNITIVE_ARCHITECTURE_REFERENCE_2026-09-10.md",
+      "bytes": 77121,
+      "git_blob": "4f3aab032844b8ad1d27280589f2870941d43bd8",
+      "sha256": "1ac673662228ebdfa282bdbe3e4a854f90c75826dcf42488118ac2cce4e54526",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/M4_TRADING_COGNITIVE_ARCHITECTURE_REFERENCE_2026-09-10.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/M4_TRADING_COGNITIVE_ARCHITECTURE_REFERENCE_2026-09-10.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/38fab7e95f0f00bc56d0368804f7717f24cc4941/docs/ORB_AFRE_CANONICAL_FUTURE_BUILD_PLAN_2026-09-10.md",
+      "bytes": 102570,
+      "git_blob": "38fab7e95f0f00bc56d0368804f7717f24cc4941",
+      "sha256": "e2fc75973e589df5beebd7a71c471af1cf020af8954cc2f337ca0098bbed3484",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/ORB_AFRE_CANONICAL_FUTURE_BUILD_PLAN_2026-09-10.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/ORB_AFRE_CANONICAL_FUTURE_BUILD_PLAN_2026-09-10.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/851d13267805ee202f0c5d8fa3d9cd70bd364c81/docs/ORB_INTRADAY_STOCK_COMMODITY_SCOPE_AND_FLOW_HARDENING_2026-09-12.md",
+      "bytes": 39110,
+      "git_blob": "851d13267805ee202f0c5d8fa3d9cd70bd364c81",
+      "sha256": "16aba08ca2fc6df4c41a85ba23b52f10664aa8aaeb75d099f2f863baf040147e",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/ORB_INTRADAY_STOCK_COMMODITY_SCOPE_AND_FLOW_HARDENING_2026-09-12.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/ORB_INTRADAY_STOCK_COMMODITY_SCOPE_AND_FLOW_HARDENING_2026-09-12.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/594f155a8976f6a4ce1c4f16ddbae5d99026f7f3/docs/ORB_SIMPLE_FLOW.md",
+      "bytes": 7966,
+      "git_blob": "594f155a8976f6a4ce1c4f16ddbae5d99026f7f3",
+      "sha256": "639bf51bcfdf8d5aeece4482cad24eb93b75ccb3cc3fec5145ff0b4807fd772a",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/ORB_SIMPLE_FLOW.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_SIMPLE_FLOW.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/ORB_SIMPLE_FLOW.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/ORB_SIMPLE_FLOW.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/efc06504ef0f67cbfb8a2f8d5e6494a65a6af0bf/docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md",
+      "bytes": 49897,
+      "git_blob": "efc06504ef0f67cbfb8a2f8d5e6494a65a6af0bf",
+      "sha256": "a52b1e3ff1576da7531d7a27d96d2dc6673299eb6a29ac3f297cf17ab60f7bee",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/87129c8a727f883ce9f5aa0cdbdce30d426300b5/docs/plans/ORB_EXTERNAL_REVIEW_BRIEF.md",
+      "bytes": 4072,
+      "git_blob": "87129c8a727f883ce9f5aa0cdbdce30d426300b5",
+      "sha256": "d90fcb43219fc8cc211b32898a23a7227ccbf0b4844e299837f2f4f0b374923a",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_EXTERNAL_REVIEW_BRIEF.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_EXTERNAL_REVIEW_BRIEF.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_EXTERNAL_REVIEW_BRIEF.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_EXTERNAL_REVIEW_BRIEF.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/03c19115d418609307d6c9ed0177b702a25ce9dd/docs/plans/ORB_GAP_TRADING_EXTERNAL_REVIEW_BRIEF.md",
+      "bytes": 7372,
+      "git_blob": "03c19115d418609307d6c9ed0177b702a25ce9dd",
+      "sha256": "28a3edb01b13dc7770904189e554e4be726c9b65e8f854b940f389315131851d",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_GAP_TRADING_EXTERNAL_REVIEW_BRIEF.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_GAP_TRADING_EXTERNAL_REVIEW_BRIEF.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_GAP_TRADING_EXTERNAL_REVIEW_BRIEF.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_GAP_TRADING_EXTERNAL_REVIEW_BRIEF.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/0696ca63daff27788b625a604c6d084d2b1b0db8/docs/plans/ORB_RESEARCH_ENGINE_PLAN.md",
+      "bytes": 34986,
+      "git_blob": "0696ca63daff27788b625a604c6d084d2b1b0db8",
+      "sha256": "bc39e088d60cd8bb817f35c0638265e7bb021a1194ee0d83fe285d3cb68da530",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_RESEARCH_ENGINE_PLAN.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_RESEARCH_ENGINE_PLAN.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_RESEARCH_ENGINE_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/0ab220591933795f53ffcef7f27a4b37891177a5/docs/plans/ORB_STRATEGY_MEMORANDUM.md",
+      "bytes": 47180,
+      "git_blob": "0ab220591933795f53ffcef7f27a4b37891177a5",
+      "sha256": "2386ed9eee4169499750fee023256dc22f004f78f82ef860fa92db7843d592af",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_STRATEGY_MEMORANDUM.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_STRATEGY_MEMORANDUM.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_STRATEGY_MEMORANDUM.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/3dd0d56c3625c54f907d3e05381d632d735667f6/docs/plans/ORB_TIMING_RESEARCH_V197.md",
+      "bytes": 5359,
+      "git_blob": "3dd0d56c3625c54f907d3e05381d632d735667f6",
+      "sha256": "ffcc638ec7f6779d74d35b56a89d5e19a255a19b060dc51565fe464ce7c908dc",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_TIMING_RESEARCH_V197.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_TIMING_RESEARCH_V197.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_TIMING_RESEARCH_V197.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_TIMING_RESEARCH_V197.md"
+        },
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_TIMING_RESEARCH_V197.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/90e6cc9a0895ce04a9fc135bf615462421e54ce4/docs/plans/ORB_V201B_NSE_REVIEW_KIMI_PART2.md",
+      "bytes": 35501,
+      "git_blob": "90e6cc9a0895ce04a9fc135bf615462421e54ce4",
+      "sha256": "798bcbee7d0a8848157a8299c1dbcb43013c28296e3611d3c947bb1acb14d4aa",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_V201B_NSE_REVIEW_KIMI_PART2.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_V201B_NSE_REVIEW_KIMI_PART2.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_V201B_NSE_REVIEW_KIMI_PART2.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_V201B_NSE_REVIEW_KIMI_PART2.md"
+        },
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V201B_NSE_REVIEW_KIMI_PART2.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/3acf58fe692b0a1707778e819863e82b142a63e6/docs/plans/ORB_V201C_NSE_REVIEW_KIMI_PART3.md",
+      "bytes": 17305,
+      "git_blob": "3acf58fe692b0a1707778e819863e82b142a63e6",
+      "sha256": "01f02a66986c07839acf6bdeecbbcc7845fa039c2a81aedd9c33e67cc337f691",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_V201C_NSE_REVIEW_KIMI_PART3.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_V201C_NSE_REVIEW_KIMI_PART3.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_V201C_NSE_REVIEW_KIMI_PART3.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_V201C_NSE_REVIEW_KIMI_PART3.md"
+        },
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V201C_NSE_REVIEW_KIMI_PART3.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/e984c76cb652933e17a232457e2fd733e133d862/docs/plans/ORB_V201_NSE_REVIEW_KIMI.md",
+      "bytes": 39948,
+      "git_blob": "e984c76cb652933e17a232457e2fd733e133d862",
+      "sha256": "b1be87728f31df3f7fe5845cd382011d252223c45f53211a4443b270a28ff56c",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_V201_NSE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_V201_NSE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_V201_NSE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_V201_NSE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V201_NSE_REVIEW_KIMI.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/82bbba6bb5475820121684e73d0cdfed1858ddf5/docs/plans/ORB_V201_PRECODE_REVIEW_KIMI.md",
+      "bytes": 18959,
+      "git_blob": "82bbba6bb5475820121684e73d0cdfed1858ddf5",
+      "sha256": "b4d3b24d47327e9d780797d328c5474d7fc1e4556d11e8c1908339e4189a98a9",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_V201_PRECODE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_V201_PRECODE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_V201_PRECODE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_V201_PRECODE_REVIEW_KIMI.md"
+        },
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V201_PRECODE_REVIEW_KIMI.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/5b3b9818f2d19c361be8942dec82113e77a85623/docs/plans/ORB_V201_VERIFIED_ANSWER.md",
+      "bytes": 20459,
+      "git_blob": "5b3b9818f2d19c361be8942dec82113e77a85623",
+      "sha256": "f9b650aa5175ffce6e74364b48553c1465a91ec8dbc2aa4302d9118458c23b8c",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_V201_VERIFIED_ANSWER.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_V201_VERIFIED_ANSWER.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_V201_VERIFIED_ANSWER.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_V201_VERIFIED_ANSWER.md"
+        },
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V201_VERIFIED_ANSWER.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/6ef17751ff287456b36f6d4b29ba050178b347d1/docs/plans/ORB_V2_BUILD_PLAN.md",
+      "bytes": 3339,
+      "git_blob": "6ef17751ff287456b36f6d4b29ba050178b347d1",
+      "sha256": "cef90dd1fc18bea94492808c865584a45943f853b7a8aacbd4d13bb8abe2b394",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_V2_BUILD_PLAN.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_V2_BUILD_PLAN.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_V2_BUILD_PLAN.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_V2_BUILD_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/1981b5efa2b520446bebba6dff762bc873d49b27/docs/plans/ORB_V2_JUDGE_FINDINGS.md",
+      "bytes": 18957,
+      "git_blob": "1981b5efa2b520446bebba6dff762bc873d49b27",
+      "sha256": "f208f4a3d80bb12debc043674dd51f60cd8a47b943d2bfca43588064552759e9",
+      "source_refs": [
+        {
+          "commit": "9b950285b62046420bb1ad15d7c9f5b8a8f24f98",
+          "path": "docs/plans/ORB_V2_JUDGE_FINDINGS.md"
+        },
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_V2_JUDGE_FINDINGS.md"
+        },
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/plans/ORB_V2_JUDGE_FINDINGS.md"
+        },
+        {
+          "commit": "7a15bfb3717d34ea75d19a6584a3ef814fae8001",
+          "path": "docs/plans/ORB_V2_JUDGE_FINDINGS.md"
+        },
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V2_JUDGE_FINDINGS.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/2cd4058a320ce81444f1a5d6b1bd08b6005dfd6b/docs/M4_HYPOTHESIS_BOX_V2_IMPLEMENTATION_PLAN_2026-09-10.md",
+      "bytes": 53829,
+      "git_blob": "2cd4058a320ce81444f1a5d6b1bd08b6005dfd6b",
+      "sha256": "ff182e2d626ec8325836c8d65536ecfe2b4bc8fdff2ea24bcb7aee95ed73d3a9",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/M4_HYPOTHESIS_BOX_V2_IMPLEMENTATION_PLAN_2026-09-10.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/f37f9568902938dc01f0f6cd0e4a093664d17343/docs/M4_TRADING_COGNITIVE_ARCHITECTURE_REFERENCE_2026-09-10.md",
+      "bytes": 98659,
+      "git_blob": "f37f9568902938dc01f0f6cd0e4a093664d17343",
+      "sha256": "74d76199deff1d3aad5b4f4d9b937214c7d1921efbad8e9956133d8e5564afca",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/M4_TRADING_COGNITIVE_ARCHITECTURE_REFERENCE_2026-09-10.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/fbb822e1aa4008c3010c54645fa840d27927f1b7/docs/ORB_AFRE_CANONICAL_FUTURE_BUILD_PLAN_2026-09-10.md",
+      "bytes": 106990,
+      "git_blob": "fbb822e1aa4008c3010c54645fa840d27927f1b7",
+      "sha256": "bef35ba79305a32203afcdd52bd397258e70bd842d0fe1de233edd89b74ea0e4",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_AFRE_CANONICAL_FUTURE_BUILD_PLAN_2026-09-10.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/7cf0f86edf00205839393cc1666f3e37351ea104/docs/ORB_BUILD4_CONTEXT_DERIVATIVES_HYPOTHESIS_FULL_BUILD_PLAN_2026-09-17.md",
+      "bytes": 112813,
+      "git_blob": "7cf0f86edf00205839393cc1666f3e37351ea104",
+      "sha256": "8c989f40cd498d37dbf3ee0f09ee275d6c4e7f9c85a66dcab396acd2f2f27452",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_BUILD4_CONTEXT_DERIVATIVES_HYPOTHESIS_FULL_BUILD_PLAN_2026-09-17.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/105cd034c4d42f8dcd1b6c135d9b7d4a75cc13b7/docs/ORB_FORMATION_REFERENCE_2026-09-19/B4_OS_TRACEABILITY_MATRIX_PREVIOUS_VERIFIED.md",
+      "bytes": 11704,
+      "git_blob": "105cd034c4d42f8dcd1b6c135d9b7d4a75cc13b7",
+      "sha256": "7e41bdc61184096891772995cc2736d9abfe831eddabab29e4761e88b31510f3",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_FORMATION_REFERENCE_2026-09-19/B4_OS_TRACEABILITY_MATRIX_PREVIOUS_VERIFIED.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/104f5d8d8a22f546533c29158912a974a3bd55a5/docs/ORB_FORMATION_REFERENCE_2026-09-19/DESIGN_EVIDENCE_LEDGER.md",
+      "bytes": 3016,
+      "git_blob": "104f5d8d8a22f546533c29158912a974a3bd55a5",
+      "sha256": "508517c397e6b0aa5f332fb41858468b8955daa285c133a1fcc5eefad2b1c9c2",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_FORMATION_REFERENCE_2026-09-19/DESIGN_EVIDENCE_LEDGER.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/762ea2e98bf16600d433b2174fad25e9e6b8a8cf/docs/ORB_FORMATION_REFERENCE_2026-09-19/FORM_TRACEABILITY_MATRIX.md",
+      "bytes": 6226,
+      "git_blob": "762ea2e98bf16600d433b2174fad25e9e6b8a8cf",
+      "sha256": "0f029c1128f54b82babdec280fec1176b0e5774c546eb2dca9d12c29f05027e8",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_FORMATION_REFERENCE_2026-09-19/FORM_TRACEABILITY_MATRIX.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/acac0b10efbe91f6130f5c9c4dd8ffb2fb49dff0/docs/ORB_FORMATION_REFERENCE_2026-09-19/JUDGE_REPORT.md",
+      "bytes": 4805,
+      "git_blob": "acac0b10efbe91f6130f5c9c4dd8ffb2fb49dff0",
+      "sha256": "7655f547c19d1ddfe8ad5af1daaea6915378003751b3a4fd13a748644f731354",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_FORMATION_REFERENCE_2026-09-19/JUDGE_REPORT.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/9fb37c5dab0146e95d4dcc48fb6450768037623b/docs/ORB_FORMATION_REFERENCE_2026-09-19/ORB_FORMATION_FUTURE_BUILD_REFERENCE_2026-09-19.md",
+      "bytes": 11675,
+      "git_blob": "9fb37c5dab0146e95d4dcc48fb6450768037623b",
+      "sha256": "517098e721551165ec89b9ee5112ae6db0ec5a37bf8aa07ff4ad549d360a9fe8",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_FORMATION_REFERENCE_2026-09-19/ORB_FORMATION_FUTURE_BUILD_REFERENCE_2026-09-19.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/129a8bcda37b903c1a3f77ddf58f5d00f5114c58/docs/ORB_FORMATION_REFERENCE_2026-09-19/SOURCE_INTRADAY_FORMATION_PLAN_2026-09-19.md",
+      "bytes": 18821,
+      "git_blob": "129a8bcda37b903c1a3f77ddf58f5d00f5114c58",
+      "sha256": "ff2376eb7d701bc6f842197e03b743f02b0d5806563509f177e63a23c67b90a0",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_FORMATION_REFERENCE_2026-09-19/SOURCE_INTRADAY_FORMATION_PLAN_2026-09-19.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/15c194cf9159402191ed19a74becb3ff25cc7f2b/docs/ORB_FORMATION_REFERENCE_2026-09-19/SOURCE_OF_TRUTH_MAP_PREVIOUS_VERIFIED.md",
+      "bytes": 4599,
+      "git_blob": "15c194cf9159402191ed19a74becb3ff25cc7f2b",
+      "sha256": "6bd8ba241aff8815d8f4e23f732ce7cbefff662c80f4b5b2149fbf81634d9a65",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_FORMATION_REFERENCE_2026-09-19/SOURCE_OF_TRUTH_MAP_PREVIOUS_VERIFIED.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/7dc270d654c21aea7f729fe5d45d727751830e98/docs/ORB_INTRADAY_FORMATION_INTELLIGENCE_EXTENSION_PLAN_2026-09-19.md",
+      "bytes": 15624,
+      "git_blob": "7dc270d654c21aea7f729fe5d45d727751830e98",
+      "sha256": "3ee2fb7f62183d8f18676b1f119f1d86dc0345a39ee719786dd6713717752324",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_INTRADAY_FORMATION_INTELLIGENCE_EXTENSION_PLAN_2026-09-19.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/003223f0c4d750175d0e188f30f674b949452ab8/docs/ORB_INTRADAY_STOCK_COMMODITY_SCOPE_AND_FLOW_HARDENING_2026-09-12.md",
+      "bytes": 53219,
+      "git_blob": "003223f0c4d750175d0e188f30f674b949452ab8",
+      "sha256": "aadcbf7844baeb5f323444a8c50cd893972e2961ded170ca008133db54cee8cf",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_INTRADAY_STOCK_COMMODITY_SCOPE_AND_FLOW_HARDENING_2026-09-12.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/ad07d81a0d53902a1bc0506b2eab07ae9f5932ef/docs/ORB_STAGE_BY_STAGE_ADVANCED_REASONING_BUILD_PLAN.md",
+      "bytes": 170333,
+      "git_blob": "ad07d81a0d53902a1bc0506b2eab07ae9f5932ef",
+      "sha256": "c422852489fc8404a99535c6e976d38a514a04c5dff726c4e37db3c910d05daf",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/ORB_STAGE_BY_STAGE_ADVANCED_REASONING_BUILD_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/60abe9df3e43c1a82bd689641c5d5e78056a470f/docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md",
+      "bytes": 72837,
+      "git_blob": "60abe9df3e43c1a82bd689641c5d5e78056a470f",
+      "sha256": "2be7413d92da6bf050372c7a8a91ad82ce7e9b483418af08a23da08248e411e0",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/97efa02b2f58cbc8222b3de50886283050e7f398/docs/plans/ORB_RESEARCH_ENGINE_PLAN.md",
+      "bytes": 61744,
+      "git_blob": "97efa02b2f58cbc8222b3de50886283050e7f398",
+      "sha256": "1bf154c9096f20960d20f1bbb6773899488a3f777d4f60dd9c825e34a2d86002",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_RESEARCH_ENGINE_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/7c04016dfacec420a474f141e5a154d35277fea1/docs/plans/ORB_STRATEGY_MEMORANDUM.md",
+      "bytes": 69025,
+      "git_blob": "7c04016dfacec420a474f141e5a154d35277fea1",
+      "sha256": "5e530300d74f0a9cf5002d69a437f02462ceb41a544965141db56447d04d42dc",
+      "source_refs": [
+        {
+          "commit": "d15bb21d2376e1e9693974a9b1caa21a5f0b896c",
+          "path": "docs/plans/ORB_STRATEGY_MEMORANDUM.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/58407966f0f26368f41af31028657666dbfffb87/docs/ORB_STAGE_BY_STAGE_ADVANCED_REASONING_BUILD_PLAN.md",
+      "bytes": 148359,
+      "git_blob": "58407966f0f26368f41af31028657666dbfffb87",
+      "sha256": "569918e8535c213a2ff4292f1a4197f239a00c50bda37aac2536b85f747dff4d",
+      "source_refs": [
+        {
+          "commit": "29e9e126401a512c13743871206c2ee6b22772b3",
+          "path": "docs/ORB_STAGE_BY_STAGE_ADVANCED_REASONING_BUILD_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/7fdacb202f81a39af591e0bacb5e6b1638b0fd39/docs/ORB_SIMPLE_FLOW.md",
+      "bytes": 8245,
+      "git_blob": "7fdacb202f81a39af591e0bacb5e6b1638b0fd39",
+      "sha256": "8d179dd113e77b6fd3761a5d6949aa20311b96e3e9112542b4b237e14bf862d5",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/ORB_SIMPLE_FLOW.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/4589095bff5e50d1a4e60108b65f382853886a4a/docs/derivatives/ORB_CONTEXT_PARITY.patch",
+      "bytes": 1118,
+      "git_blob": "4589095bff5e50d1a4e60108b65f382853886a4a",
+      "sha256": "a4e9edeefacb352dab8bec4cf4a3784675dbd9a70324a90aa798356067ea04a9",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/derivatives/ORB_CONTEXT_PARITY.patch"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/116545aab63e6f3c2be9187d2cf4e007ea4e6387/docs/derivatives/ORB_DERIVATIVES_V202_INTEGRATION.md",
+      "bytes": 3617,
+      "git_blob": "116545aab63e6f3c2be9187d2cf4e007ea4e6387",
+      "sha256": "dd72d37414c2bf986e32e15e2ed939a694aaac1f88f81aacf129837e1ea7f86d",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/derivatives/ORB_DERIVATIVES_V202_INTEGRATION.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/96a760a895a5e412bc7cbaa2620024c9c4dd5de5/docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md",
+      "bytes": 50132,
+      "git_blob": "96a760a895a5e412bc7cbaa2620024c9c4dd5de5",
+      "sha256": "c84ce8597e1b8d992d43133010353607fa876ae37885ffd04526923550d2b5c7",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_CONTEXT_NATIVE_PLAN_V2.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/725385df861aab4bfd03ed1a8c09b5fea5dca2a9/docs/plans/ORB_EXTERNAL_REVIEW_BRIEF.md",
+      "bytes": 4170,
+      "git_blob": "725385df861aab4bfd03ed1a8c09b5fea5dca2a9",
+      "sha256": "388b0ae6dfb31ce8a4b83a23e258e6683f9f60e3893234b70c842b8590200e35",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_EXTERNAL_REVIEW_BRIEF.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/3e8483129111ea19fa978f43723583f2e8315999/docs/plans/ORB_GAP_TRADING_EXTERNAL_REVIEW_BRIEF.md",
+      "bytes": 7493,
+      "git_blob": "3e8483129111ea19fa978f43723583f2e8315999",
+      "sha256": "2c2cd590325899b03ab984cc34784f6c3c48c9f7b78484dec2f7d1bff97a8428",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_GAP_TRADING_EXTERNAL_REVIEW_BRIEF.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/19d109de9a3d45e4c51eb4cea8e6964583a938c7/docs/plans/ORB_RESEARCH_ENGINE_PLAN.md",
+      "bytes": 35367,
+      "git_blob": "19d109de9a3d45e4c51eb4cea8e6964583a938c7",
+      "sha256": "2a97e3e05335593dba989074b7f2bf7a620265efb088837f1c99addccc896f73",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_RESEARCH_ENGINE_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/97dc7ae5096b20158a1b7f4b46ce3cbd9b0f0a06/docs/plans/ORB_STRATEGY_MEMORANDUM.md",
+      "bytes": 47336,
+      "git_blob": "97dc7ae5096b20158a1b7f4b46ce3cbd9b0f0a06",
+      "sha256": "61c967bb3b2016f14718b35fa41fbd7b7c3d60a7c30e4d2b2c2c06920b57ec3a",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_STRATEGY_MEMORANDUM.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/2bb978a3bed2631737c0ea5aad46c5480aa31a7c/docs/plans/ORB_V202_REPAIR_PLAN.md",
+      "bytes": 26946,
+      "git_blob": "2bb978a3bed2631737c0ea5aad46c5480aa31a7c",
+      "sha256": "d712fefe7a253125deba2be54af31d0fe41d933c473fddcf71c7adf1f96f4239",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V202_REPAIR_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    },
+    {
+      "file": "baseline/df6dc13c1235670674053b3a36ac96e498794a96/docs/plans/ORB_V2_BUILD_PLAN.md",
+      "bytes": 3493,
+      "git_blob": "df6dc13c1235670674053b3a36ac96e498794a96",
+      "sha256": "d6a30e12e678142615eef4c1b0b23aea0c8a1dd961b93af26f604fffd57928e4",
+      "source_refs": [
+        {
+          "commit": "d5c21a5c85babbfa1a6aa3847a12888485de91fb",
+          "path": "docs/plans/ORB_V2_BUILD_PLAN.md"
+        }
+      ],
+      "semantic_review": "PENDING"
+    }
+  ],
+  "unrecovered_git_versions": [],
+  "unverified_scope": [
+    "Additional branches and commit history",
+    "External research and artifacts outside the staged docs paths",
+    "Chat exports and attachments",
+    "Sentence-level coverage and interpretation"
+  ]
+}
