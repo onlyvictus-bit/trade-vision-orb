@@ -2,6 +2,10 @@
 
 This is a staged baseline and migration plan. `baseline/` contains intact source files, `SOURCE_MAP.json` records their provenance and review status, and `FOLLOW_UP.md` is the handoff queue. `changes/` is reserved for new decisions with separate IDs. No implementation or semantic review is implied by an imported file.
 
+## ORB research workspace
+
+Open the [ORB research plan](orb-research/ORB-strategy-research-plan.md) for the 20-note planning scaffold, source and data registers, research gates, and Git handoff paths. Open `orb-research/` as a vault to navigate the linked notes in Obsidian.
+
 ## Acceptance criteria
 
 1. Every expected source version has an exact copy or an explicit recovery gap. Raw originals and attachments are retained whole. The same path can have different versions. Identical bytes can share storage only when every original location and message identity is still listed.

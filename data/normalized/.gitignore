@@ -1,0 +1,3 @@
+# Keep runtime artifacts out of routine Git staging.
+*
+!.gitignore
